@@ -50,3 +50,4 @@ dependencies:
     - umap-learn==0.5.1
     - fair-esm==0.4.0
     - tape-proteins==0.3
+    - typed-argument-parser==1.7.2
